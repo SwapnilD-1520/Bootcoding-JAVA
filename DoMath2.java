@@ -1,0 +1,10 @@
+class DoMath2{
+public static void main(string args[]){
+double score = 1.0+2.0+*3.0;
+System.out.println(score);
+double copy = score;
+copy = copy/2.0;
+system.out.println(copy);
+System.out.println(score);
+}
+}
