@@ -2,6 +2,7 @@
  
  class WeatherAdviser 
 {
+	
 	public static void main(String args[])
 	{
 		float temp = 36.9f;
