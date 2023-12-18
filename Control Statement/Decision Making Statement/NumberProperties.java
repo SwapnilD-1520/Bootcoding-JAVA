@@ -1,6 +1,7 @@
 //Implement a program that takes an integer as input and checks whether it's prime, even, odd.
 class NumberProperties 
 {
+	
 	public static void main(String args[])
 	{
 		int num = 23;
