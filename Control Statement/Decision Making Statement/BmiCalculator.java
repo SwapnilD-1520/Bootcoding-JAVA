@@ -1,6 +1,7 @@
 //Build a BMI (Body Mass Index) calculator that takes a person's height and weight as input and categorizes them as underweight, normal weight, overweight, or obese.
 class BmiCalculator
 {
+	
 	public static void main(String args[])
 	{
 		int height = 5;
